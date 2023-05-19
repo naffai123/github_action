@@ -1,1 +1,4 @@
-# Workflow todo
+ on:
+  push:
+    branches:
+      - main
